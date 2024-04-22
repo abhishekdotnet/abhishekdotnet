@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.c-sharpcorner.com/members/abhishek-yadav64](https://www.c-sharpcorner.com/members/abhishek-yadav64)
 
-- 💬 Ask me about **aspnet,>Net Core,reactjs,entityframework,Xamrin/MAUI**
+- 💬 Ask me about **aspnet,.Net Core,reactjs,entityframework,Xamrin/MAUI**
 
 - 📫 How to reach me **abhishekydv447@gmail.com**
 
